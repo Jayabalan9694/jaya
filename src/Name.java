@@ -10,7 +10,7 @@ public static void main(String[] args) {
 	System.out.println(len);
 	String sw="SeleniumAutomationtool";
 	int le = sw.length();
-	System.out.println(leb);
+	System.out.println(le);
 	
 }
 }
